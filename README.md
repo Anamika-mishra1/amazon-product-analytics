@@ -3,7 +3,7 @@
 **Anamika | B.Tech CSE 2023 | Python Data Analytics Specialist**
 
 ## 📊 LIVE DASHBOARD PREVIEW
-![Dashboard Metrics](dashboard_metrix1.png)
+![Dashboard Metrixs](Dashboard_metrix1.png)
 
 **Total Revenue: ₹1,80,273 | 6 Amazon.in SKUs Analyzed**
 
