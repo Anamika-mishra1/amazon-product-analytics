@@ -4,6 +4,9 @@
 
 ## 📊 LIVE DASHBOARD PREVIEW
 ![Dashboard Metrixs](Dashboard_metrix1.png)
+![Dashboard Metrixs](Dashboard_metrix2.png)
+
+
 
 **Total Revenue: ₹1,80,273 | 6 Amazon.in SKUs Analyzed**
 
